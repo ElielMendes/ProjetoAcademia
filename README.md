@@ -1,6 +1,7 @@
 # ProjetoAcademia
 Nome dos Integrantes:<br>
-<br>Eliel Mendes RA 1901498
-<br>Lucas Cardoso RA 2101415
-<br>Guilherme Ramos RA 2101282
+<br>Eliel Mendes Oliveira RA 1901498
+<br>Guilherme Ramos de Oliveira RA 2101282
+<br>Lucas Cardoso Silva  RA 2101415
+
 <br>Vitor Soares RA 2101783
